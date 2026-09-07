@@ -145,9 +145,9 @@ The earlier example device had the following advertised configuration. It is ret
 | Network | Two 10/100/1000 Mbps adaptive Ethernet ports |
 | Other I/O | Two USB 3.0, one USB Type-C, one HDMI, one TF, and one SIM slot |
 
-The open-source software does not require a hardware purchase. For a provisioned device, see the
-[CosmoEdge-ready certified device](https://item.taobao.com/item.htm?id=1066672051450), or contact
-[hello@cosmowander.ai](mailto:hello@cosmowander.ai) about project deployment.
+The open-source software does not require a hardware purchase. International purchasing of ready devices is not available yet.
+Explore [hardware configurations](https://www.cosmowander.ai/devices/) or use your own compatible hardware.
+Contact [hello@cosmowander.ai](mailto:hello@cosmowander.ai) to discuss project deployment.
 
 #### Connect Network and Power
 
