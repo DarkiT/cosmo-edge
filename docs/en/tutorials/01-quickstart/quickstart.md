@@ -145,9 +145,9 @@ The earlier example device had the following advertised configuration. It is ret
 | Network | Two 10/100/1000 Mbps adaptive Ethernet ports |
 | Other I/O | Two USB 3.0, one USB Type-C, one HDMI, one TF, and one SIM slot |
 
-The open-source software does not require a hardware purchase. International purchasing of ready devices is not available yet.
+The open-source software does not require a hardware purchase. For international purchases of ready devices, contact us by email; international online checkout is not currently available.
 Explore [hardware configurations](https://www.cosmowander.ai/devices/) or use your own compatible hardware.
-Contact [hello@cosmowander.ai](mailto:hello@cosmowander.ai) to discuss project deployment.
+Contact [hello@cosmowander.ai](mailto:hello@cosmowander.ai) for purchase enquiries or to discuss project deployment.
 
 #### Connect Network and Power
 
